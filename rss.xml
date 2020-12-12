@@ -22,7 +22,7 @@
     </itunes:summary>
     <itunes:image href="https://zizhengw.github.io/wujimacha-podcast-feed/res/wujimacha_logo.png"/>
     <itunes:owner>
-      <itunes:name>Zizheng</itunes:name>
+      <itunes:name><![CDATA[ WūJīMāChā ]]></itunes:name>
       <itunes:email>zizheng@wujimacha.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>yes</itunes:explicit>
@@ -41,32 +41,36 @@
     <itunes:category text="Technology"/>
 
     <item>
-      <enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
-      <title>EPISODE TITLE</title>
+      <enclosure url="https://assets.pubpub.org/d0lkjs57/21607599213950.mp3" length="6603881" type="audio/mpeg"/>
+      <title><![CDATA[ [20E21.2] 凝視點：具體闡釋 ]]></title>
       <guid isPermaLink="false">
-      https://LOCATION OF MP3.MP3
+      [GET IT FROM WUJIMACHA.COM]
       </guid>
-      <link>https://www.wujimacha.com/pubXXXX</link>
+      <link>[GET IT FROM WUJIMACHA.COM]</link>
       <itunes:author><![CDATA[ WūJīMāChā ]]></itunes:author>
-      <itunes:duration>DURATION</itunes:duration>
+      <itunes:duration>[GET IT FROM FILE]</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+      <itunes:image href="https://zizhengw.github.io/wujimacha-podcast-feed/res/wujimacha_logo.png"/>
       <itunes:subtitle>
-      EPISODE SUBTITLE
+        [THIS IS OPTIONAL]
       </itunes:subtitle>
-      <itunes:summary>
-      <![CDATA[
-      EPISODE DESCRIPTION
-      ]]>
-      </itunes:summary>
       <description>
-      <![CDATA[
-      EPISODE DESCRIPTION
-      ]]>
+        <![CDATA[
+        EPISODE DESCRIPTION PLAIN TEEXT
+        ]]>
       </description>
-
-      <pubDate>EPISODE PUBLISH DATE</pubDate>
+      <itunes:summary>
+        <![CDATA[
+        EPISODE DESCRIPTION HTML
+        ]]>
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        EPISODE DESCRIPTION HTML
+        ]]>
+      </content:encoded>
+      <pubDate>[GET FROM WUJIMACHA.COM RSS]</pubDate>
     </item>
   </channel>
 </rss>
