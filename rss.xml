@@ -41,7 +41,7 @@
     <itunes:category text="Technology"/>
 
     <item>
-      <enclosure url="https://assets.pubpub.org/d0lkjs57/21607599213950.mp3" length="6603881" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/d0lkjs57/21607599213950.mp3" length="6603881" type="audio/mpeg"/>
       <title><![CDATA[ [20E21.2] 凝視點：具體闡釋 ]]></title>
       <guid isPermaLink="false">
         6d098f98-34bf-4772-a87e-aebc80ce33f8
@@ -72,7 +72,6 @@
             <li>歡迎訂閱「WūJīMāChā瞭望台」：<a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
             <li>往期節目分類匯總：<a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
           </ul>
-
         ]]>
       </itunes:summary>
       <content:encoded>
@@ -90,7 +89,6 @@
             <li>歡迎訂閱「WūJīMāChā瞭望台」：<a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
             <li>往期節目分類匯總：<a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
           </ul>
-
         ]]>
       </content:encoded>
       <pubDate>Thu, 10 Dec 2020 11:35:25 GMT</pubDate>
