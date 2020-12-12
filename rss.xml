@@ -44,33 +44,56 @@
       <enclosure url="https://assets.pubpub.org/d0lkjs57/21607599213950.mp3" length="6603881" type="audio/mpeg"/>
       <title><![CDATA[ [20E21.2] 凝視點：具體闡釋 ]]></title>
       <guid isPermaLink="false">
-      [GET IT FROM WUJIMACHA.COM]
+        6d098f98-34bf-4772-a87e-aebc80ce33f8
       </guid>
-      <link>[GET IT FROM WUJIMACHA.COM]</link>
+      <link>https://www.wujimacha.com/pub/20e21-2</link>
       <itunes:author><![CDATA[ WūJīMāChā ]]></itunes:author>
-      <itunes:duration>[GET IT FROM FILE]</itunes:duration>
+      <itunes:duration>04:35</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://zizhengw.github.io/wujimacha-podcast-feed/res/wujimacha_logo.png"/>
-      <itunes:subtitle>
-        [THIS IS OPTIONAL]
-      </itunes:subtitle>
       <description>
         <![CDATA[
-        EPISODE DESCRIPTION PLAIN TEEXT
+        凝視點，喚醒感知的一瞬間，或出現在樸素的場景，或發生於重要回憶之時。本次錄音為「凝視點」系列第二期。
         ]]>
       </description>
       <itunes:summary>
         <![CDATA[
-        EPISODE DESCRIPTION HTML
+        <h3>Intro</h3>
+          <p>凝視點，喚醒感知的一瞬間，或出現在樸素的場景，或發生於重要回憶之時。本次錄音為「凝視點」系列第二期。</p>
+        <h3>Voices</h3>
+          <ul>
+            <li>Jinglong</li>
+            <li>Zizheng: <a href='https://zizhengw.github.io/'>https://zizhengw.github.io</a></li>
+          </ul>
+        <h3>More</h3>
+          <ul>
+            <li>「WūJīMāChā瞭望台」作為 WūJīMāChā的一部分，負責記錄觀察和思考，從而推動行動。更多請見主頁：<a href='https://www.wujimacha.com/' target='_blank' class='url'>https://www.wujimacha.com/</a></li>
+            <li>歡迎訂閱「WūJīMāChā瞭望台」：<a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
+            <li>往期節目分類匯總：<a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
+          </ul>
+
         ]]>
       </itunes:summary>
       <content:encoded>
         <![CDATA[
-        EPISODE DESCRIPTION HTML
+        <h3>Intro</h3>
+          <p>凝視點，喚醒感知的一瞬間，或出現在樸素的場景，或發生於重要回憶之時。本次錄音為「凝視點」系列第二期。</p>
+        <h3>Voices</h3>
+          <ul>
+            <li>Jinglong</li>
+            <li>Zizheng: <a href='https://zizhengw.github.io/'>https://zizhengw.github.io</a></li>
+          </ul>
+        <h3>More</h3>
+          <ul>
+            <li>「WūJīMāChā瞭望台」作為 WūJīMāChā的一部分，負責記錄觀察和思考，從而推動行動。更多請見主頁：<a href='https://www.wujimacha.com/' target='_blank' class='url'>https://www.wujimacha.com/</a></li>
+            <li>歡迎訂閱「WūJīMāChā瞭望台」：<a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
+            <li>往期節目分類匯總：<a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
+          </ul>
+
         ]]>
       </content:encoded>
-      <pubDate>[GET FROM WUJIMACHA.COM RSS]</pubDate>
+      <pubDate>Thu, 10 Dec 2020 11:35:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
