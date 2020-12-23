@@ -489,6 +489,70 @@
       </content:encoded>
       <pubDate>Thu, 02 Jul 2020 13:14:26 GMT</pubDate>
     </item>
+    <item>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/9zhoaflm/31593064970386.mp3" length="23602073" type="audio/mpeg"/>
+      <title><![CDATA[ [20E17] 创作中的真诚 ]]></title>
+      <guid isPermaLink="false">
+        6c4329cc-4220-4fdd-b291-4d8498cc7467
+      </guid>
+      <link>https://www.wujimacha.com/pub/20e17</link>
+      <itunes:author><![CDATA[ WūJīMāChā ]]></itunes:author>
+      <itunes:duration>12:17</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://zizhengw.github.io/wujimacha-podcast-feed/res/wujimacha_logo.png"/>
+      <description>
+        <![CDATA[ 林檎对写作有一些困惑：按照套路精心设计写作中的每一个转折，是不是就像互联网公司精心设计用户体验，从而让他们沉迷一样？ ]]>
+      </description>
+      <itunes:summary>
+        <![CDATA[
+          <h3>Intro</h3>
+          <p>林檎对写作有一些困惑：按照套路精心设计写作中的每一个转折，是不是就像互联网公司精心设计用户体验，从而让他们沉迷一样？</p>
+          <h3>Voices</h3>
+          <ul>
+          <li>林檎：<a href='https://twitter.com/underwaternya' target='_blank' class='url'>https://twitter.com/underwaternya</a></li>
+          <li>Zizheng: <a href='https://zizhengw.github.io/' target='_blank' class='url'>https://zizhengw.github.io/</a></li>
+
+          </ul>
+          <h3>Notes</h3>
+          <ul>
+          <li>Zizheng 的乐理课教材 <em>The Study of Counterpoint</em>：<a href='https://www.goodreads.com/book/show/507840.The_Study_of_Counterpoint' target='_blank' class='url'>https://www.goodreads.com/book/show/507840.The_Study_of_Counterpoint</a></li>
+
+          </ul>
+          <h3>More</h3>
+          <ul>
+          <li>「WūJīMāChā瞭望台」作為 WūJīMāChā 的一部分，負責記錄觀察和思考，從而推動行動。更多請見主頁：<a href='https://www.wujimacha.com/' target='_blank' class='url'>https://www.wujimacha.com/</a></li>
+          <li>歡迎訂閱「WūJīMāChā瞭望台」：<a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
+          <li>往期節目分類匯總：<a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
+          </ul>
+        ]]>
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+          <h3>Intro</h3>
+          <p>林檎对写作有一些困惑：按照套路精心设计写作中的每一个转折，是不是就像互联网公司精心设计用户体验，从而让他们沉迷一样？</p>
+          <h3>Voices</h3>
+          <ul>
+          <li>林檎：<a href='https://twitter.com/underwaternya' target='_blank' class='url'>https://twitter.com/underwaternya</a></li>
+          <li>Zizheng: <a href='https://zizhengw.github.io/' target='_blank' class='url'>https://zizhengw.github.io/</a></li>
+
+          </ul>
+          <h3>Notes</h3>
+          <ul>
+          <li>Zizheng 的乐理课教材 <em>The Study of Counterpoint</em>：<a href='https://www.goodreads.com/book/show/507840.The_Study_of_Counterpoint' target='_blank' class='url'>https://www.goodreads.com/book/show/507840.The_Study_of_Counterpoint</a></li>
+
+          </ul>
+          <h3>More</h3>
+          <ul>
+          <li>「WūJīMāChā瞭望台」作為 WūJīMāChā 的一部分，負責記錄觀察和思考，從而推動行動。更多請見主頁：<a href='https://www.wujimacha.com/' target='_blank' class='url'>https://www.wujimacha.com/</a></li>
+          <li>歡迎訂閱「WūJīMāChā瞭望台」：<a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
+          <li>往期節目分類匯總：<a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
+          </ul>
+        ]]>
+      </content:encoded>
+      <pubDate>Thu, 25 Jun 2020 06:12:14 GMT</pubDate>
+    </item>
+
 
   </channel>
 </rss>
