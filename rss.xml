@@ -28,15 +28,12 @@
     <itunes:explicit>yes</itunes:explicit>
     <itunes:category text="Arts">
       <itunes:category text="Design"/>
-      <itunes:category text="Books"/>
     </itunes:category>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Spirituality"/>
     </itunes:category>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
-      <itunes:category text="Personal Journals"/>
-      <itunes:category text="Places &amp; Travel"/>
     </itunes:category>
     <itunes:category text="Technology"/>
     <item>
