@@ -676,6 +676,40 @@
       </content:encoded>
       <pubDate>Sun, 24 May 2020 12:22:18 GMT</pubDate>
     </item>
+    <item>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/[GET IT FROM WUJIMACHA.COM]" length="[IN BYTE. GET IT FROM YOUR COMPUTER FINDER]" type="audio/mpeg"/>
+      <title><![CDATA[ [20E15] 四方當代美術館的電梯 ]]></title>
+      <guid isPermaLink="false">
+      [GET IT FROM https://www.wujimacha.com/rss.xml]
+      </guid>
+      <link>[GET IT FROM https://www.wujimacha.com/rss.xml]</link>
+      <itunes:author><![CDATA[ WūJīMāChā ]]></itunes:author>
+      <itunes:duration>[GET IT FROM THE MP3 FILE]</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://zizhengw.github.io/wujimacha-podcast-feed/res/wujimacha_logo.png"/>
+      <itunes:subtitle>
+        [THIS IS OPTIONAL]
+      </itunes:subtitle>
+      <description>
+        <![CDATA[
+        EPISODE DESCRIPTION PLAIN TEXT
+        ]]>
+      </description>
+      <itunes:summary>
+        <![CDATA[
+        EPISODE DESCRIPTION HTML
+        GET IT FROM https://www.wujimacha.com/
+        ]]>
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        EPISODE DESCRIPTION HTML
+        GET IT FROM https://www.wujimacha.com/
+        ]]>
+      </content:encoded>
+      <pubDate>[GET FROM https://www.wujimacha.com/rss.xml]</pubDate>
+    </item>
 
 
 
