@@ -947,8 +947,7 @@
 
 
 
-<<<<<<< HEAD
-=======
+
         </ul>
         <h3>More</h3>
         <ul>
@@ -962,6 +961,7 @@
       </content:encoded>
       <pubDate>Thu, 09 Apr 2020 00:00:00 GMT</pubDate>
     </item>
+
     <item>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/c4li9qtq/41593954921795.mp3" length="27088479" type="audio/mpeg"/>
       <title><![CDATA[ [20E10] 夜壺，露出窗外！廁所，何處安置？ ]]></title>
@@ -1040,8 +1040,6 @@
       <pubDate>Thu, 02 Apr 2020 00:00:00 GMT</pubDate>
     </item>
 
-
->>>>>>> parent of 52f4fa3... Update rss.xml
     <item>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/ltrgkhhh/11593954184505.mp3" length="53704422" type="audio/mpeg"/>
       <title><![CDATA[ [20E8] 喜劇詩人但丁（Dante） ]]></title>
