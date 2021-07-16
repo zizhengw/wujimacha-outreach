@@ -34,35 +34,75 @@
     </itunes:category>
     <itunes:category text="Technology"/>
     <item>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/XXXX" length="XXX" type="audio/mpeg"/>
-      <title><![CDATA[ XXX]]></title>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/8jko6pnt/01626408011012.mp3" length="33900746" type="audio/mpeg"/>
+      <title><![CDATA[ [21E09] 被一分爲二的身體：桌子的意味 ]]></title>
       <guid isPermaLink="false">
-        XXX
+        820b1156-2036-49e6-8233-3e2766a1e449
       </guid>
-      <link>XXX</link>
+      <link>https://www.wujimacha.com/pub/21e09</link>
       <itunes:author><![CDATA[ WūJīMāChā ]]></itunes:author>
-      <itunes:duration>XXX</itunes:duration>
+      <itunes:duration>14:04</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://zizhengw.github.io/wujimacha-outreach/res/wujimacha_logo.png"/>
       <description>
         <![CDATA[
-        EPISODE DESCRIPTION PLAIN TEXT
+        「（人體）形態會約束思想內容。」桌子，作爲傢俱的一種，是更貼合人體尺度的時空結構。它與傳統的「建築空間」同等重要。當我們隔着桌子坐下交流時，不論是傾聽者還是表達者，身體都被桌子一分爲二。這意味著什麼？
         ]]>
       </description>
       <itunes:summary>
         <![CDATA[
-        EPISODE DESCRIPTION HTML
-        GET IT FROM https://www.wujimacha.com/
+          <h2 >Intro</h2>
+          <p>「（人體）形態會約束思想內容。」</p>
+          <p>桌子，作爲傢俱的一種，是更貼合人體尺度的時空結構。它與傳統的「建築空間」同等重要。當我們隔着桌子坐下交流時，不論是傾聽者還是表達者，身體都被桌子一分爲二。這意味著什麼？</p>
+          <h2 >Voices</h2>
+          <ul>
+          <li>Zizheng: <a href='https://zizhengw.github.io/' target='_blank' class='url'>https://zizhengw.github.io/</a></li>
+          <li>Jinglong</li>
+
+          </ul>
+          <h2 >Notes</h2>
+          <ul>
+          <li>Google&#39;s Project Starline: <a href='https://blog.google/technology/research/project-starline/' target='_blank' class='url'>https://blog.google/technology/research/project-starline/</a></li>
+
+          </ul>
+          <h2 >More</h2>
+          <ul>
+          <li>Architectural Observation, Art and Philosophy, Life and Work. At
+          WūJīMāChā, we build physical space-time to manifest what&#39;s already
+          there: <a href='https://www.wujimacha.com/' target='_blank' class='url'>https://www.wujimacha.com/</a></li>
+          <li>Subscribe: <a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
+          <li>Episode Catalogue: &lt;<a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
+          </ul>
         ]]>
       </itunes:summary>
       <content:encoded>
         <![CDATA[
-        EPISODE DESCRIPTION HTML
-        GET IT FROM https://www.wujimacha.com/
+          <h2 >Intro</h2>
+          <p>「（人體）形態會約束思想內容。」</p>
+          <p>桌子，作爲傢俱的一種，是更貼合人體尺度的時空結構。它與傳統的「建築空間」同等重要。當我們隔着桌子坐下交流時，不論是傾聽者還是表達者，身體都被桌子一分爲二。這意味著什麼？</p>
+          <h2 >Voices</h2>
+          <ul>
+          <li>Zizheng: <a href='https://zizhengw.github.io/' target='_blank' class='url'>https://zizhengw.github.io/</a></li>
+          <li>Jinglong</li>
+
+          </ul>
+          <h2 >Notes</h2>
+          <ul>
+          <li>Google&#39;s Project Starline: <a href='https://blog.google/technology/research/project-starline/' target='_blank' class='url'>https://blog.google/technology/research/project-starline/</a></li>
+
+          </ul>
+          <h2 >More</h2>
+          <ul>
+          <li>Architectural Observation, Art and Philosophy, Life and Work. At
+          WūJīMāChā, we build physical space-time to manifest what&#39;s already
+          there: <a href='https://www.wujimacha.com/' target='_blank' class='url'>https://www.wujimacha.com/</a></li>
+          <li>Subscribe: <a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
+          <li>Episode Catalogue: &lt;<a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
+          </ul>
         ]]>
       </content:encoded>
-      <pubDate>XXX</pubDate>
+      <pubDate>Fri, 16 Jul 2021 07:33:06 GMT</pubDate>
     </item>
     <item>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/kzq8mnc6/71623419182608.mp3" length="25472794" type="audio/mpeg"/>
