@@ -34,6 +34,37 @@
     </itunes:category>
     <itunes:category text="Technology"/>
     <item>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/XXXX" length="XXX" type="audio/mpeg"/>
+      <title><![CDATA[ XXX]]></title>
+      <guid isPermaLink="false">
+        XXX
+      </guid>
+      <link>XXX</link>
+      <itunes:author><![CDATA[ WūJīMāChā ]]></itunes:author>
+      <itunes:duration>XXX</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://zizhengw.github.io/wujimacha-outreach/res/wujimacha_logo.png"/>
+      <description>
+        <![CDATA[
+        EPISODE DESCRIPTION PLAIN TEXT
+        ]]>
+      </description>
+      <itunes:summary>
+        <![CDATA[
+        EPISODE DESCRIPTION HTML
+        GET IT FROM https://www.wujimacha.com/
+        ]]>
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        EPISODE DESCRIPTION HTML
+        GET IT FROM https://www.wujimacha.com/
+        ]]>
+      </content:encoded>
+      <pubDate>XXX</pubDate>
+    </item>
+    <item>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/kzq8mnc6/71623419182608.mp3" length="25472794" type="audio/mpeg"/>
       <title><![CDATA[ [21E08] 藥山暮鼓]]></title>
       <guid isPermaLink="false">
