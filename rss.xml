@@ -34,6 +34,62 @@
     </itunes:category>
     <itunes:category text="Technology"/>
     <item>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/shpdo9b0/51633705014524.mp3" length="7941315" type="audio/mpeg"/>
+      <title><![CDATA[ [21E12] 牛群迎面走來]]></title>
+      <guid isPermaLink="false">
+        43e00b2f-48e0-4a73-8521-669e0553560b
+      </guid>
+      <link>https://www.wujimacha.com/pub/21e12</link>
+      <itunes:author><![CDATA[ WūJīMāChā ]]></itunes:author>
+      <itunes:duration>03:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://zizhengw.github.io/wujimacha-outreach/res/wujimacha_logo.png"/>
+      <description>
+        <![CDATA[
+        下午的牛群，覓食完回家。
+        ]]>
+      </description>
+      <itunes:summary>
+        <![CDATA[
+        <h2 >Intro</h2>
+        <p>下午的牛群，覓食完回家。</p>
+        <p>林芝，西藏。</p>
+        <h2 >Voices</h2>
+        <p>牛群</p>
+        <h2 >Comments</h2>
+        <p>歡迎所有善意的留言！請點擊鏈接進入留言板：<a href='https://github.com/wujimacha/Podcast-Outreach/discussions' target='_blank' class='url'>https://github.com/wujimacha/Podcast-Outreach/discussions</a></p>
+        <h2 >More</h2>
+        <ul>
+        <li>Architectural Observation, Art and Philosophy, Life and Work. At WūJīMāChā, we manifest what&#39;s already there: <a href='https://www.wujimacha.com/' target='_blank' class='url'>https://www.wujimacha.com/</a></li>
+        <li>Subscribe: <a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
+        <li>Episode Catalogue: <a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
+
+        </ul>
+        ]]>
+      </itunes:summary>
+      <content:encoded>
+        <![CDATA[
+        <h2 >Intro</h2>
+        <p>下午的牛群，覓食完回家。</p>
+        <p>林芝，西藏。</p>
+        <h2 >Voices</h2>
+        <p>牛群</p>
+        <h2 >Comments</h2>
+        <p>歡迎所有善意的留言！請點擊鏈接進入留言板：<a href='https://github.com/wujimacha/Podcast-Outreach/discussions' target='_blank' class='url'>https://github.com/wujimacha/Podcast-Outreach/discussions</a></p>
+        <h2 >More</h2>
+        <ul>
+        <li>Architectural Observation, Art and Philosophy, Life and Work. At WūJīMāChā, we manifest what&#39;s already there: <a href='https://www.wujimacha.com/' target='_blank' class='url'>https://www.wujimacha.com/</a></li>
+        <li>Subscribe: <a href='https://www.wujimacha.com/pub/how-to-subscribe' target='_blank' class='url'>https://www.wujimacha.com/pub/how-to-subscribe</a></li>
+        <li>Episode Catalogue: <a href='https://www.wujimacha.com/podcast' target='_blank' class='url'>https://www.wujimacha.com/podcast</a></li>
+
+        </ul>
+
+        ]]>
+      </content:encoded>
+      <pubDate>Fri, 08 Oct 2021 15:02:40 GMT</pubDate>
+    </item>
+    <item>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/8lxvreu9/21628772270608.mp3" length="66206572" type="audio/mpeg"/>
       <title><![CDATA[ [21E11] 工業「調味」，食物「風味」]]></title>
       <guid isPermaLink="false">
@@ -110,7 +166,6 @@
       </content:encoded>
       <pubDate>Thu, 12 Aug 2021 12:54:52 GMT</pubDate>
     </item>
-
     <item>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/assets.pubpub.org/njqs3yh2/41627807665036.mp3" length="14269295" type="audio/mpeg"/>
       <title><![CDATA[ [21E10] 當現實空間轉變爲社交網絡時間軸]]></title>
