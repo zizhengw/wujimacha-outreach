@@ -5,7 +5,8 @@
     <title><![CDATA[ WūJīMāChā瞭望台 ]]></title>
     <link>https://www.wujimacha.com/podcast</link>
     <description>
-      <![CDATA[ Architectural Observation, Art and Philosophy, Life and Work. 記錄觀察和思考，從而推動行動。更多請見主頁：https://www.wujimacha.com/ ]]>
+      <![CDATA[ Architectural Observation, Art and Philosophy, Life and Work. 記錄觀察和思考，從而推動行動。更多請見主頁：https://www.wujimacha.com/
+      ]]>
     </description>
     <language>zh-tw</language>
     <itunes:keywords>
@@ -15,10 +16,50 @@
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://zizhengw.github.io/wujimacha-outreach/rss.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <itunes:subtitle><![CDATA[ Architectural Observation, Art and Philosophy, Life and Work. 記錄觀察和思考，從而推動行動。更多請見主頁：https://www.wujimacha.com/ ]]></itunes:subtitle>
+    <itunes:subtitle>
+      <![CDATA[
+      <h1 >WūJīMāChā Podcast | 瞭望台</h1>
+      <p>Architectural Observation, Art &amp; Philosophy, Life &amp; Work.
+      <br>建築性觀察，藝術 &amp; 哲學，生活 &amp; 工作。</p>
+      <p>WūJīMāChā Podcast documents observations and reflections to inspire and promote actions.
+      <br>「WūJīMāChā 瞭望台」記錄觀察和思考，從而啓發和推動行動。</p>
+      <p>Updates monthly.
+      <br>每月更新</p>
+      <p>Happy listening : )
+      <br>收聽愉快：）</p>
+      <h1 >Subscribe | 訂閱更新</h1>
+      <p><a href='https://www.wujimacha.com/pub/how-to-subscribe'>Subscribe</a> to stay connected with us for latest podcast, essay, and project updates.
+      <br>您可通過 RSS，播客客戶端，郵件等途徑訂閱我們的播客和更多內容更新：<a href='https://www.wujimacha.com/pub/how-to-subscribe'>訂閱方法</a></p>
+      <h1 >Comments &amp; Feedback | 評論 &amp; 反饋</h1>
+      <p>Head to our <a href='https://github.com/wujimacha/Podcast/discussions'>Discussions</a> page for comments and feedback or email us directly: <a href='mailto:zizheng@wujimacha.com'>zizheng@wujimacha.com</a>
+      <br>前往我們的 <a href='https://github.com/wujimacha/Podcast/discussions'>Discussions </a>頁面以評論和反饋，或直接郵件我們：[<a href='mailto:zizheng@wujimacha.com' target='_blank' class='url'>zizheng@wujimacha.com</a>](</p>
+      <h1 >Donate &amp; Contribute | 捐助 &amp; 其它方式支持</h1>
+      <p>If you find our contents enjoyable and like the way we do things, please consider contributing by donating, joining particular projects, and so on to help WūJīMāChā remain sustainable: <a href='https://www.wujimacha.com/donate-and-contribute'>details</a>.
+      <br>如果您喜歡我們的內容並認可我們的做事方式，請考慮通過捐助，參與具體項目等方式讓 WūJīMāChā 得以良性運轉：<a href='https://www.wujimacha.com/donate-and-get-involved'>詳情</a></p>
+      ]]>
+    </itunes:subtitle>
     <itunes:author><![CDATA[ WūJīMāChā ]]></itunes:author>
     <itunes:summary>
-      <![CDATA[ Architectural Observation, Art and Philosophy, Life and Work.「WūJīMāChā瞭望台」作為 WūJīMāChā 的一部分，負責記錄觀察和思考，從而推動行動。不定期更新。更多請見主頁：https://www.wujimacha.com/ ]]>
+      <![CDATA[
+      <h1 >WūJīMāChā Podcast | 瞭望台</h1>
+      <p>Architectural Observation, Art &amp; Philosophy, Life &amp; Work.
+      <br>建築性觀察，藝術 &amp; 哲學，生活 &amp; 工作。</p>
+      <p>WūJīMāChā Podcast documents observations and reflections to inspire and promote actions.
+      <br>「WūJīMāChā 瞭望台」記錄觀察和思考，從而啓發和推動行動。</p>
+      <p>Updates monthly.
+      <br>每月更新</p>
+      <p>Happy listening : )
+      <br>收聽愉快：）</p>
+      <h1 >Subscribe | 訂閱更新</h1>
+      <p><a href='https://www.wujimacha.com/pub/how-to-subscribe'>Subscribe</a> to stay connected with us for latest podcast, essay, and project updates.
+      <br>您可通過 RSS，播客客戶端，郵件等途徑訂閱我們的播客和更多內容更新：<a href='https://www.wujimacha.com/pub/how-to-subscribe'>訂閱方法</a></p>
+      <h1 >Comments &amp; Feedback | 評論 &amp; 反饋</h1>
+      <p>Head to our <a href='https://github.com/wujimacha/Podcast/discussions'>Discussions</a> page for comments and feedback or email us directly: <a href='mailto:zizheng@wujimacha.com'>zizheng@wujimacha.com</a>
+      <br>前往我們的 <a href='https://github.com/wujimacha/Podcast/discussions'>Discussions </a>頁面以評論和反饋，或直接郵件我們：[<a href='mailto:zizheng@wujimacha.com' target='_blank' class='url'>zizheng@wujimacha.com</a>](</p>
+      <h1 >Donate &amp; Contribute | 捐助 &amp; 其它方式支持</h1>
+      <p>If you find our contents enjoyable and like the way we do things, please consider contributing by donating, joining particular projects, and so on to help WūJīMāChā remain sustainable: <a href='https://www.wujimacha.com/donate-and-contribute'>details</a>.
+      <br>如果您喜歡我們的內容並認可我們的做事方式，請考慮通過捐助，參與具體項目等方式讓 WūJīMāChā 得以良性運轉：<a href='https://www.wujimacha.com/donate-and-get-involved'>詳情</a></p>
+      ]]>
     </itunes:summary>
     <itunes:image href="https://zizhengw.github.io/wujimacha-outreach/res/wujimacha_logo.png"/>
     <itunes:owner>
